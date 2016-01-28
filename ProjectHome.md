@@ -1,0 +1,1 @@
+osCMS stands for Open Source Content Management System. For those who do not know, a CMS is something you add to a website to control it without having to manually code every page. It can save a developer lots of time and effort, and it is also perfect for beginning website designers who don't  want to learn HTML and CSS.
